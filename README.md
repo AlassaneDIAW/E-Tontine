@@ -1,17 +1,17 @@
-# 📱 E-Tontine
+# E-Tontine
 
 **E-Tontine** est une application web/mobile conçue pour faciliter la gestion des tontines, permettant aux membres de cotiser, suivre les tours, recevoir des notifications et accéder aux historiques de transactions de manière sécurisée et transparente.
 
 ---
 
-## 🚀 Fonctionnalités principales
+##  Fonctionnalités principales
 
-- 🔐 Authentification sécurisée des utilisateurs
-- 👥 Création et gestion de groupes de tontine
-- 💸 Cotisation en ligne et gestion des tours
-- 📊 Tableau de bord avec historique et statistiques
-- 🔔 Notifications par email ou SMS
-- 📁 Export de rapports financiers
+- Authentification sécurisée des utilisateurs
+- Création et gestion de groupes de tontine
+- Cotisation en ligne et gestion des tours
+- Tableau de bord avec historique et statistiques
+- Notifications par email ou SMS
+- Export de rapports financiers
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 📋 Installation du projet
+## Installation du projet
 
 ### 1. Cloner le dépôt
 ```bash
